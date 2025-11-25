@@ -1,0 +1,12 @@
+# 2x2 Rubik's Cube explicit representation (unfolded):
+#        U1 U2
+#        U3 U4
+#L1 L2   F1 F2   R1 R2   B1 B2
+#L3 L4   F3 F4   R3 R4   B3 B4
+#        D1 D2
+#        D3 D4
+
+# UFRBLD face notation in string
+# U1U2U3U4F1F2F3F4R1R2R3R4B1B2B3B4L1L2L3L4D1D2D3D4
+
+RRBORYGOGGBWYYRBBWOWOWYG

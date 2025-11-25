@@ -1,0 +1,172 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Convex Hull</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <style>
+        .tooltip {
+            position: absolute;
+            text-align: center;
+            width: auto;
+            height: auto;
+            padding: 5px;
+            font: 12px sans-serif;
+            background: lightsteelblue;
+            border: 0px;
+            border-radius: 8px;
+            pointer-events: none;
+        }
+        .legend {
+            font: 12px sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <svg width="600" height="600"></svg>
+    <script type="text/javascript">
+        const points = [{"info":"Index 0:<br>(-7.45e+02, 1.25e+02)","x":-744.5560950379398,"y":124.5312314731687},{"info":"Index 1:<br>(-5.04e+02, 1.46e+02)","x":-503.70860996810785,"y":146.07727251435568},{"info":"Index 2:<br>(-6.45e+02, 1.34e+02)","x":-644.5866325313395,"y":133.71928475058075},{"info":"Index 3:<br>(-5.61e+02, 2.47e+02)","x":-560.5960215516839,"y":247.00122364861613},{"info":"Index 4:<br>(-5.50e+02, 3.01e+02)","x":-550.1746064373137,"y":300.92219769885764},{"info":"Index 5:<br>(-6.58e+02, 2.17e+02)","x":-658.2885295760482,"y":217.1429490667062},{"info":"Index 6:<br>(-7.08e+02, 1.92e+02)","x":-708.0177954751435,"y":192.4177019289528},{"info":"Index 7:<br>(-6.64e+02, 4.48e+02)","x":-664.0960519633966,"y":448.2910686543044},{"info":"Index 8:<br>(-7.63e+02, 3.89e+02)","x":-762.6484258666815,"y":389.3637407557035},{"info":"Index 9:<br>(-7.95e+02, 4.85e+02)","x":-794.6461628120261,"y":484.86311314268437},{"info":"Index 10:<br>(-7.77e+02, 3.49e+02)","x":-777.0503136920778,"y":349.1012587095515},{"info":"Index 11:<br>(-8.04e+02, 3.28e+02)","x":-803.8805759958146,"y":327.78838487686437},{"info":"Index 12:<br>(-8.59e+02, 4.93e+02)","x":-859.3019417021285,"y":493.4802728756035},{"info":"Index 13:<br>(-8.70e+02, 4.69e+02)","x":-870.2877851092749,"y":468.85780512895303},{"info":"Index 14:<br>(-8.48e+02, 3.67e+02)","x":-848.1780057752394,"y":367.1754443447286},{"info":"Index 15:<br>(-8.18e+02, 2.71e+02)","x":-818.2417145834673,"y":271.0382427993674},{"info":"Index 16:<br>(-9.01e+02, 3.80e+02)","x":-901.2461088987136,"y":380.38436445083335},{"info":"Index 17:<br>(-8.43e+02, 2.68e+02)","x":-842.6894644200622,"y":268.33209526540804},{"info":"Index 18:<br>(-9.41e+02, 4.05e+02)","x":-941.1437964739282,"y":404.60348830436686},{"info":"Index 19:<br>(-9.54e+02, 3.83e+02)","x":-954.468038120338,"y":383.1990612828871}];
+        const hull = [{"x":-954.468038120338,"y":383.1990612828871},{"x":-941.1437964739282,"y":404.60348830436686},{"x":-859.3019417021285,"y":493.4802728756035},{"x":-794.6461628120261,"y":484.86311314268437},{"x":-664.0960519633966,"y":448.2910686543044},{"x":-550.1746064373137,"y":300.92219769885764},{"x":-503.70860996810785,"y":146.07727251435568},{"x":-744.5560950379398,"y":124.5312314731687}];
+
+        const width = 600;
+        const height = 600;
+        const margin = 60;
+
+        const xScale = d3.scaleLinear()
+            .domain([-977.006, -481.171])
+            .range([margin, width - margin - 60]);
+
+        const yScale = d3.scaleLinear()
+            .domain([61.0881, 556.923])
+            .range([height - margin, margin]);
+
+        const svg = d3.select("svg");
+
+        svg.append("g")
+            .attr("class", "grid")
+            .attr("transform", `translate(0,${height - margin})`)
+            .call(d3.axisBottom(xScale)
+                .ticks(10)
+                .tickSize(-height + 2 * margin)
+                .tickFormat(""))
+            .selectAll("line")
+            .attr("stroke", "lightgray")
+            .attr("stroke-width", 0.5);
+
+        svg.append("g")
+            .attr("class", "grid")
+            .attr("transform", `translate(${margin},0)`)
+            .call(d3.axisLeft(yScale)
+                .ticks(10)
+                .tickSize(-width + 2 * margin + 60)
+                .tickFormat(""))
+            .selectAll("line")
+            .attr("stroke", "lightgray")
+            .attr("stroke-width", 0.5);
+
+        svg.append("g")
+            .attr("transform", `translate(0,${height - margin})`)
+            .call(d3.axisBottom(xScale).ticks(10))
+            .append("text")
+            .attr("x", (width - margin - 60) / 2)
+            .attr("y", 40)
+            .attr("fill", "black")
+            .style("text-anchor", "middle")
+            .text("x");
+
+        svg.append("g")
+            .attr("transform", `translate(${margin},0)`)
+            .call(d3.axisLeft(yScale).ticks(10))
+            .append("text")
+            .attr("x", -40)
+            .attr("y", height / 2)
+            .attr("dy", "-1em")
+            .attr("fill", "black")
+            .style("text-anchor", "middle")
+            .text("y");
+
+        const tooltip = d3.select("body").append("div")
+            .attr("class", "tooltip")
+            .style("opacity", 0);
+
+        const hullPoints = d3.polygonHull(points.map(d => [xScale(d.x), yScale(d.y)]));
+        if (hullPoints) {
+            hullPoints.push(hullPoints[0]);
+            svg.append("path")
+                .attr("d", d3.line()(hullPoints))
+                .attr("fill", "none")
+                .attr("stroke", "#fb9a99")
+                .attr("stroke-width", 6);
+        }
+
+        const hullClosed = hull.concat([hull[0]]);
+        svg.append("path")
+            .datum(hullClosed)
+            .attr("fill", "none")
+            .attr("stroke", "#1f78b4")
+            .attr("stroke-width", 2)
+            .attr("d", d3.line()
+                .x(d => xScale(d.x))
+                .y(d => yScale(d.y))
+            );
+
+        svg.selectAll("circle")
+            .data(points)
+            .enter()
+            .append("circle")
+            .attr("cx", d => xScale(d.x))
+            .attr("cy", d => yScale(d.y))
+            .attr("r", 3)
+            .attr("fill", "black")
+            .on("mouseover", function(event, d) {
+                tooltip.transition()
+                    .duration(200)
+                    .style("opacity", .9);
+                tooltip.html(d.info)
+                    .style("left", (event.pageX + 5) + "px")
+                    .style("top", (event.pageY - 28) + "px");
+            })
+            .on("mouseout", function(d) {
+                tooltip.transition()
+                    .duration(500)
+                    .style("opacity", 0);
+            });
+
+        const legend = svg.append("g")
+            .attr("class", "legend")
+            .attr("transform", `translate(${width - margin - 40}, ${margin})`);
+
+        legend.append("line")
+            .attr("x1", 0)
+            .attr("x2", 18)
+            .attr("y1", 0)
+            .attr("y2", 0)
+            .attr("stroke", "#fb9a99")
+            .attr("stroke-width", 6);
+
+        legend.append("text")
+            .attr("x", 24)
+            .attr("y", 0)
+            .attr("dy", "0.35em")
+            .style("text-anchor", "start")
+            .text("Convex Hull");
+
+        legend.append("line")
+            .attr("x1", 0)
+            .attr("x2", 18)
+            .attr("y1", 20)
+            .attr("y2", 20)
+            .attr("stroke", "#1f78b4")
+            .attr("stroke-width", 2);
+
+        legend.append("text")
+            .attr("x", 24)
+            .attr("y", 20)
+            .attr("dy", "0.35em")
+            .style("text-anchor", "start")
+            .text("Your Solution");
+
+    </script>
+</body>
+</html>
