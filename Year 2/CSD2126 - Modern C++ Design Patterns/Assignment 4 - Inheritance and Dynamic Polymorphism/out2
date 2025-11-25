@@ -1,0 +1,72 @@
+Total number of students in course               = 12
+Total number of undergraduate students in course = 7
+Total number of graduate students in course      = 5
+
+GRADUATE STUDENT INFORMATION
+----------------------------
+Id = 2
+Name = Matthew Festa
+Age = 32
+Project = 92
+Assignment = [80, 91, 75, 91, 93, 92, 95, 76, 78, 88]
+Total = 88.95
+Grade = CR
+Type = Graduate Student
+Research Area = Ohio
+Advisor = Scott Servais
+
+Id = 4
+Name = Marco Gonzales
+Age = 32
+Project = 95
+Assignment = [94, 63, 59, 55, 72, 54, 63]
+Total = 80.3571
+Grade = CR
+Type = Graduate Student
+Research Area = Puerto Rico
+Advisor = Pete Woodworth
+
+Id = 6
+Name = Tommy Milone
+Age = 37
+Project = 69
+Assignment = [100, 74, 84, 54, 100, 83, 94, 53, 79]
+Total = 74.5556
+Grade = N
+Type = Graduate Student
+Research Area = California
+Advisor = Jarret DeHart
+
+Id = 7
+Name = Justin Upton
+Age = 39
+Project = 86
+Assignment = [59, 66, 76, 93, 66, 50, 89, 69]
+Total = 78.5
+Grade = N
+Type = Graduate Student
+Research Area = Wisconsin
+Advisor = Manny Acta
+
+Id = 11
+Name = Paul Sewald
+Age = 34
+Project = 65
+Assignment = [47, 72, 96, 57, 55, 40, 96, 99]
+Total = 67.625
+Grade = N
+Type = Graduate Student
+Research Area = Arizona
+Advisor = Carson Vitale
+
+GRADUATE STUDENT STATISTICS
+--------------------------------
+Number of students = 5
+The mean of the total score = 77.9975
+The sorted list of students (id, name, total, grade) in descending order of total:
+2, Matthew Festa, 88.95, CR
+4, Marco Gonzales, 80.3571, CR
+7, Justin Upton, 78.5, N
+6, Tommy Milone, 74.5556, N
+11, Paul Sewald, 67.625, N
+

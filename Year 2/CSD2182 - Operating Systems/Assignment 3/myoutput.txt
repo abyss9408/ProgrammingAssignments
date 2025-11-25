@@ -1,0 +1,79 @@
+The original block...
+relative to start address: 0
+  byte count: 64
+  allocated? false
+
+After allocating all...
+relative to start address: 0
+  byte count: 14
+  allocated? true
+relative to start address: 14
+  byte count: 14
+  allocated? true
+relative to start address: 28
+  byte count: 14
+  allocated? true
+relative to start address: 3c
+  byte count: 14
+  allocated? true
+relative to start address: 50
+  byte count: 14
+  allocated? true
+
+After deallocating second...
+relative to start address: 0
+  byte count: 14
+  allocated? true
+relative to start address: 14
+  byte count: 14
+  allocated? false
+relative to start address: 28
+  byte count: 14
+  allocated? true
+relative to start address: 3c
+  byte count: 14
+  allocated? true
+relative to start address: 50
+  byte count: 14
+  allocated? true
+
+After deallocating fourth...
+relative to start address: 0
+  byte count: 14
+  allocated? true
+relative to start address: 14
+  byte count: 14
+  allocated? false
+relative to start address: 28
+  byte count: 14
+  allocated? true
+relative to start address: 3c
+  byte count: 14
+  allocated? false
+relative to start address: 50
+  byte count: 14
+  allocated? true
+
+After deallocating third...
+relative to start address: 0
+  byte count: 14
+  allocated? true
+relative to start address: 14
+  byte count: 3c
+  allocated? false
+relative to start address: 50
+  byte count: 14
+  allocated? true
+
+After deallocating first...
+relative to start address: 0
+  byte count: 50
+  allocated? false
+relative to start address: 50
+  byte count: 14
+  allocated? true
+
+After deallocating fifth...
+relative to start address: 0
+  byte count: 64
+  allocated? false

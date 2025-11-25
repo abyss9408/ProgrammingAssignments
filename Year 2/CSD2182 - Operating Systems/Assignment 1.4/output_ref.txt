@@ -1,0 +1,54 @@
+uShell>uShell>Error: no such process index.
+uShell>uShell>[0] process 13357
+uShell>uShell>[1] process 13358
+uShell>class uShell;
+uShell class. Acts as a command prompt that takes in input and performs
+class uShell
+  Creates the class object of uShell
+  uShell(bool bFlag);
+process 13357 exited with exit status 0
+uShell>class uShell;
+uShell class. Acts as a command prompt that takes in input and performs
+class uShell
+  Creates the class object of uShell
+  uShell(bool bFlag);
+Process Index 0 process 13357 is no longer a child process.
+uShell>uShell>[2] process 13359
+uShell>process 13358 exited with exit status 0
+uShell>Process Index 0 process 13357 is no longer a child process.
+uShell>class uShell;
+uShell class. Acts as a command prompt that takes in input and performs
+class uShell
+  Creates the class object of uShell
+  uShell(bool bFlag);
+process 13359 exited with exit status 0
+uShell>uShell>Process Index 0 process 13357 is no longer a child process.
+uShell>uShell>A1.4-test-cases.txt
+Makefile
+output_ref.txt
+shellmain.obj
+uShell
+uShell.cpp
+uShell.h
+uShell.obj
+uShell2.h
+uShell2_ref.obj
+uShell3.h
+uShell3_helper.obj
+uShell_ref
+uShell_ref.obj
+uShell>uShell>uShell
+uShell.cpp
+uShell.h
+uShell.obj
+uShell2.h
+uShell2_ref.obj
+uShell3.h
+uShell3_helper.obj
+uShell_ref
+uShell_ref.obj
+uShell>uShell>     10      10     119
+uShell>uShell>Error: grepsas cannot be found
+uShell>uShell>     10      10     119
+uShell>Error: syntax error
+uShell>

@@ -1,0 +1,316 @@
+Total number of students in course               = 12
+Total number of undergraduate students in course = 7
+Total number of graduate students in course      = 5
+
+STUDENT INFORMATION
+---------------------------------
+Id = 1
+Name = Ryan Borucki
+Age = 30
+Project = 89
+Assignment = [65, 75, 55, 71, 71, 63, 60, 78, 83]
+Total = 75
+Grade = CR
+Type = Undergraduate Student
+Residence Hall = Iowa
+Year in College = Senior
+
+Id = 2
+Name = Matthew Festa
+Age = 32
+Project = 92
+Assignment = [80, 91, 75, 91, 93, 92, 95, 76, 78, 88]
+Total = 88.95
+Grade = CR
+Type = Graduate Student
+Research Area = Ohio
+Advisor = Scott Servais
+
+Id = 3
+Name = Matt Brash
+Age = 26
+Project = 97
+Assignment = [68, 92, 66, 77, 95, 90, 96, 59]
+Total = 85.3625
+Grade = CR
+Type = Undergraduate Student
+Residence Hall = Kentucky
+Year in College = Freshman
+
+Id = 4
+Name = Marco Gonzales
+Age = 32
+Project = 95
+Assignment = [94, 63, 59, 55, 72, 54, 63]
+Total = 80.3571
+Grade = CR
+Type = Graduate Student
+Research Area = Puerto Rico
+Advisor = Pete Woodworth
+
+Id = 5
+Name = Logan Gilbert
+Age = 27
+Project = 89
+Assignment = [51, 75, 87, 71, 88, 85, 68]
+Total = 79.2
+Grade = CR
+Type = Undergraduate Student
+Residence Hall = New York
+Year in College = Senior
+
+Id = 6
+Name = Tommy Milone
+Age = 37
+Project = 69
+Assignment = [100, 74, 84, 54, 100, 83, 94, 53, 79]
+Total = 74.5556
+Grade = N
+Type = Graduate Student
+Research Area = California
+Advisor = Jarret DeHart
+
+Id = 7
+Name = Justin Upton
+Age = 39
+Project = 86
+Assignment = [59, 66, 76, 93, 66, 50, 89, 69]
+Total = 78.5
+Grade = N
+Type = Graduate Student
+Research Area = Wisconsin
+Advisor = Manny Acta
+
+Id = 8
+Name = Julio Rodriguez
+Age = 24
+Project = 81
+Assignment = [91, 60, 87, 80, 68, 70, 80, 92]
+Total = 79.25
+Grade = CR
+Type = Undergraduate Student
+Residence Hall = Oregon
+Year in College = Junior
+
+Id = 9
+Name = Penn Murfee
+Age = 21
+Project = 75
+Assignment = [69, 51, 57, 73, 80, 69, 97, 57]
+Total = 70.8875
+Grade = CR
+Type = Undergraduate Student
+Residence Hall = Utah
+Year in College = Sophomore
+
+Id = 10
+Name = Cal Raleigh
+Age = 22
+Project = 78
+Assignment = [68, 57, 90, 81, 96, 80, 95, 78, 67, 86]
+Total = 79.26
+Grade = CR
+Type = Undergraduate Student
+Residence Hall = Texas
+Year in College = Freshman
+
+Id = 11
+Name = Paul Sewald
+Age = 34
+Project = 65
+Assignment = [47, 72, 96, 57, 55, 40, 96, 99]
+Total = 67.625
+Grade = N
+Type = Graduate Student
+Research Area = Arizona
+Advisor = Carson Vitale
+
+Id = 12
+Name = Erik Swanson
+Age = 23
+Project = 72
+Assignment = [71, 62, 83, 74, 86, 82, 77]
+Total = 75.1
+Grade = CR
+Type = Undergraduate Student
+Residence Hall = New Mexico
+Year in College = Senior
+
+STUDENT STATISTICS
+--------------------------------
+Number of students = 12
+The mean of the total score = 77.8373
+The sorted list of students (id, name, total, grade) in descending order of total:
+2, Matthew Festa, 88.95, CR
+3, Matt Brash, 85.3625, CR
+4, Marco Gonzales, 80.3571, CR
+10, Cal Raleigh, 79.26, CR
+8, Julio Rodriguez, 79.25, CR
+5, Logan Gilbert, 79.2, CR
+7, Justin Upton, 78.5, N
+12, Erik Swanson, 75.1, CR
+1, Ryan Borucki, 75, CR
+6, Tommy Milone, 74.5556, N
+9, Penn Murfee, 70.8875, CR
+11, Paul Sewald, 67.625, N
+
+UNDERGRADUATE STUDENT INFORMATION
+---------------------------------
+Id = 1
+Name = Ryan Borucki
+Age = 30
+Project = 89
+Assignment = [65, 75, 55, 71, 71, 63, 60, 78, 83]
+Total = 75
+Grade = CR
+Type = Undergraduate Student
+Residence Hall = Iowa
+Year in College = Senior
+
+Id = 3
+Name = Matt Brash
+Age = 26
+Project = 97
+Assignment = [68, 92, 66, 77, 95, 90, 96, 59]
+Total = 85.3625
+Grade = CR
+Type = Undergraduate Student
+Residence Hall = Kentucky
+Year in College = Freshman
+
+Id = 5
+Name = Logan Gilbert
+Age = 27
+Project = 89
+Assignment = [51, 75, 87, 71, 88, 85, 68]
+Total = 79.2
+Grade = CR
+Type = Undergraduate Student
+Residence Hall = New York
+Year in College = Senior
+
+Id = 8
+Name = Julio Rodriguez
+Age = 24
+Project = 81
+Assignment = [91, 60, 87, 80, 68, 70, 80, 92]
+Total = 79.25
+Grade = CR
+Type = Undergraduate Student
+Residence Hall = Oregon
+Year in College = Junior
+
+Id = 9
+Name = Penn Murfee
+Age = 21
+Project = 75
+Assignment = [69, 51, 57, 73, 80, 69, 97, 57]
+Total = 70.8875
+Grade = CR
+Type = Undergraduate Student
+Residence Hall = Utah
+Year in College = Sophomore
+
+Id = 10
+Name = Cal Raleigh
+Age = 22
+Project = 78
+Assignment = [68, 57, 90, 81, 96, 80, 95, 78, 67, 86]
+Total = 79.26
+Grade = CR
+Type = Undergraduate Student
+Residence Hall = Texas
+Year in College = Freshman
+
+Id = 12
+Name = Erik Swanson
+Age = 23
+Project = 72
+Assignment = [71, 62, 83, 74, 86, 82, 77]
+Total = 75.1
+Grade = CR
+Type = Undergraduate Student
+Residence Hall = New Mexico
+Year in College = Senior
+
+UNDERGRADUATE STUDENT STATISTICS
+--------------------------------
+Number of students = 7
+The mean of the total score = 77.7229
+The sorted list of students (id, name, total, grade) in descending order of total:
+3, Matt Brash, 85.3625, CR
+10, Cal Raleigh, 79.26, CR
+8, Julio Rodriguez, 79.25, CR
+5, Logan Gilbert, 79.2, CR
+12, Erik Swanson, 75.1, CR
+1, Ryan Borucki, 75, CR
+9, Penn Murfee, 70.8875, CR
+
+GRADUATE STUDENT INFORMATION
+----------------------------
+Id = 2
+Name = Matthew Festa
+Age = 32
+Project = 92
+Assignment = [80, 91, 75, 91, 93, 92, 95, 76, 78, 88]
+Total = 88.95
+Grade = CR
+Type = Graduate Student
+Research Area = Ohio
+Advisor = Scott Servais
+
+Id = 4
+Name = Marco Gonzales
+Age = 32
+Project = 95
+Assignment = [94, 63, 59, 55, 72, 54, 63]
+Total = 80.3571
+Grade = CR
+Type = Graduate Student
+Research Area = Puerto Rico
+Advisor = Pete Woodworth
+
+Id = 6
+Name = Tommy Milone
+Age = 37
+Project = 69
+Assignment = [100, 74, 84, 54, 100, 83, 94, 53, 79]
+Total = 74.5556
+Grade = N
+Type = Graduate Student
+Research Area = California
+Advisor = Jarret DeHart
+
+Id = 7
+Name = Justin Upton
+Age = 39
+Project = 86
+Assignment = [59, 66, 76, 93, 66, 50, 89, 69]
+Total = 78.5
+Grade = N
+Type = Graduate Student
+Research Area = Wisconsin
+Advisor = Manny Acta
+
+Id = 11
+Name = Paul Sewald
+Age = 34
+Project = 65
+Assignment = [47, 72, 96, 57, 55, 40, 96, 99]
+Total = 67.625
+Grade = N
+Type = Graduate Student
+Research Area = Arizona
+Advisor = Carson Vitale
+
+GRADUATE STUDENT STATISTICS
+--------------------------------
+Number of students = 5
+The mean of the total score = 77.9975
+The sorted list of students (id, name, total, grade) in descending order of total:
+2, Matthew Festa, 88.95, CR
+4, Marco Gonzales, 80.3571, CR
+7, Justin Upton, 78.5, N
+6, Tommy Milone, 74.5556, N
+11, Paul Sewald, 67.625, N
+

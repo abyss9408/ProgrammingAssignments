@@ -1,0 +1,96 @@
+Total number of students in course               = 12
+Total number of undergraduate students in course = 7
+Total number of graduate students in course      = 5
+
+UNDERGRADUATE STUDENT INFORMATION
+---------------------------------
+Id = 1
+Name = Ryan Borucki
+Age = 30
+Project = 89
+Assignment = [65, 75, 55, 71, 71, 63, 60, 78, 83]
+Total = 75
+Grade = CR
+Type = Undergraduate Student
+Residence Hall = Iowa
+Year in College = Senior
+
+Id = 3
+Name = Matt Brash
+Age = 26
+Project = 97
+Assignment = [68, 92, 66, 77, 95, 90, 96, 59]
+Total = 85.3625
+Grade = CR
+Type = Undergraduate Student
+Residence Hall = Kentucky
+Year in College = Freshman
+
+Id = 5
+Name = Logan Gilbert
+Age = 27
+Project = 89
+Assignment = [51, 75, 87, 71, 88, 85, 68]
+Total = 79.2
+Grade = CR
+Type = Undergraduate Student
+Residence Hall = New York
+Year in College = Senior
+
+Id = 8
+Name = Julio Rodriguez
+Age = 24
+Project = 81
+Assignment = [91, 60, 87, 80, 68, 70, 80, 92]
+Total = 79.25
+Grade = CR
+Type = Undergraduate Student
+Residence Hall = Oregon
+Year in College = Junior
+
+Id = 9
+Name = Penn Murfee
+Age = 21
+Project = 75
+Assignment = [69, 51, 57, 73, 80, 69, 97, 57]
+Total = 70.8875
+Grade = CR
+Type = Undergraduate Student
+Residence Hall = Utah
+Year in College = Sophomore
+
+Id = 10
+Name = Cal Raleigh
+Age = 22
+Project = 78
+Assignment = [68, 57, 90, 81, 96, 80, 95, 78, 67, 86]
+Total = 79.26
+Grade = CR
+Type = Undergraduate Student
+Residence Hall = Texas
+Year in College = Freshman
+
+Id = 12
+Name = Erik Swanson
+Age = 23
+Project = 72
+Assignment = [71, 62, 83, 74, 86, 82, 77]
+Total = 75.1
+Grade = CR
+Type = Undergraduate Student
+Residence Hall = New Mexico
+Year in College = Senior
+
+UNDERGRADUATE STUDENT STATISTICS
+--------------------------------
+Number of students = 7
+The mean of the total score = 77.7229
+The sorted list of students (id, name, total, grade) in descending order of total:
+3, Matt Brash, 85.3625, CR
+10, Cal Raleigh, 79.26, CR
+8, Julio Rodriguez, 79.25, CR
+5, Logan Gilbert, 79.2, CR
+12, Erik Swanson, 75.1, CR
+1, Ryan Borucki, 75, CR
+9, Penn Murfee, 70.8875, CR
+

@@ -1,0 +1,12 @@
+U, Ryan Borucki, 1994, 89 65 75 55 71 71 63 60 78 83, Iowa, Senior
+G, Matthew Festa, 1992, 92 80 91 75 91 93 92 95 76 78 88, Ohio, Scott Servais
+U, Matt Brash, 1998, 97 68 92 66 77 95 90 96 59, Kentucky, Freshman
+G, Marco Gonzales, 1992, 95 94 63 59 55 72 54 63, Puerto Rico, Pete Woodworth
+U, Logan Gilbert, 1997, 89 51 75 87 71 88 85 68, New York, Senior
+G, Tommy Milone, 1987, 69 100 74 84 54 100 83 94 53 79, California, Jarret DeHart
+G, Justin Upton, 1985, 86 59 66 76 93 66 50 89 69, Wisconsin, Manny Acta
+U, Julio Rodriguez, 2000, 81 91 60 87 80 68 70 80 92, Oregon, Junior
+U, Penn Murfee, 2003, 75 69 51 57 73 80 69 97 57, Utah, Sophomore
+U, Cal Raleigh, 2002, 78 68 57 90 81 96 80 95 78 67 86, Texas, Freshman
+G, Paul Sewald, 1990, 65 47 72 96 57 55 40 96 99, Arizona, Carson Vitale
+U, Erik Swanson, 2001, 72 71 62 83 74 86 82 77, New Mexico, Senior

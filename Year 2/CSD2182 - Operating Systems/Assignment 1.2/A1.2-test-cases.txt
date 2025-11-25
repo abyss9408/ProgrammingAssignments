@@ -1,0 +1,13 @@
+echo
+echo at by      change
+setvar TTH2 hasd
+echo ${TTH2}
+echo ${TTH2}123${TTH2} ac${TTH2}${TTH2}de #new test case
+echo ${Tth2} #new test case
+setvar PATH2 
+echo ${PATH2}123
+echo helloworld # So the replacement only happen once
+echo ${PATH} #new test case
+echo diff#sea #here we go
+setvar world h   h   h o# #${hello}
+echo ${world}
