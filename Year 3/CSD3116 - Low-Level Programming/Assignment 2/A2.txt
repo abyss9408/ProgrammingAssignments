@@ -1,0 +1,7 @@
+Using smmintrin.h, implement in simd.cpp the following -
+
+Write sumSimd to take in 1) as 1st parameter an array of 64 bit signed integers that are packed into an array of elements of type __m128i and 2) as second parameter an int specifying the number of 64 bit integers in the array. The function is to return the sum of the integers in the array as a 64 bit signed int.
+
+Write a function pdtSimd that takes in the same parameters and has the same return type but that returns the product of the integers in the array.
+
+Use the following driver code - main.cpp and you may need to compile with the following compiler switch: -msse4
