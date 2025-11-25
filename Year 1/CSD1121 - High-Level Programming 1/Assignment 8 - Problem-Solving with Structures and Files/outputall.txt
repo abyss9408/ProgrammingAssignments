@@ -1,0 +1,48 @@
+List of tsunamis:
+-----------------
+09 02 1992    170 10.12 Nicaragua
+12 02 1992   1000 26.23 Flores Island, Indonesia
+07 12 1993    239 31.34 Okushiri, Japan
+06 02 1994    238 14.56 East Java, Indonesia
+11 14 1994     49 10.89 Mindoro Island, Indonesia
+10 09 1995      1  5.10 Jalisco, Mexico
+01 01 1996      9  4.30 Sulawesi Island, Indonesia
+02 17 1996    161  7.70 Irian Javy, Indonesia
+02 21 1996     12  5.98 Peru
+07 17 1998   2200 15.23 Papua New Guinea
+12 26 2004 230000 50.59 Sumatra, Indonesia
+03 11 2011  18550 40.54 Tohokue, Japan
+11 01 1755  60000 20.47 Lisbon, Portugal
+08 27 1883  40000 37.97 Krakatoa, Indonesia
+09 20 1498  31000 19.12 Enshunada Sea, Japan
+10 28 1707  30000 25.43 Nankaido, Japan
+06 05 1896  22000 38.27 Sanriku, Japan
+08 16 1868  25000 16.09 Arica, Chile
+04 04 1771  12000 30.40 Ryuku Islands, Japan
+01 18 1586   8000  6.19 Ise Bay, Japan
+12 22 2018    426 13.40 Sunda Strait, Indonesia
+11 14 2016      2  7.80 Kaikoura, New Zealand
+02 27 2010    150 15.00 Constitucion, Chile
+02 06 2013      9  1.50 Santa Cruz Island, Solomon Islands
+06 23 2001    145  7.20 Camana, Peru
+07 17 2006    668  7.60 Pangandaran, Indonesia
+09 29 2009    189 14.40 Samoa
+
+Summary information for tsunamis
+--------------------------------
+
+Maximum wave height (in meters): 50.59
+
+Average wave height (in meters): 17.90
+
+Tsunamis with greater than average height 17.90:
+26.23 Flores Island, Indonesia
+31.34 Okushiri, Japan
+50.59 Sumatra, Indonesia
+40.54 Tohokue, Japan
+20.47 Lisbon, Portugal
+37.97 Krakatoa, Indonesia
+19.12 Enshunada Sea, Japan
+25.43 Nankaido, Japan
+38.27 Sanriku, Japan
+30.40 Ryuku Islands, Japan

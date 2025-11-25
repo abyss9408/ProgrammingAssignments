@@ -1,0 +1,8 @@
+============ test3 ============
+012345678901234567890123456789012345678901234567890
+There's a fine line between clever and stupid.
+Found 2 occurrences of 'a'
+Found 9 occurrences of 'e'
+Found 3 occurrences of 'i'
+Found 0 occurrences of 'o'
+Found 1 occurrences of 'u'

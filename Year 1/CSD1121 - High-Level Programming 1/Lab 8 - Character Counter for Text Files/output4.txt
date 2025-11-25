@@ -1,0 +1,6 @@
+a         b         c         d         e         f         g         h         i         j         k         l         m         n         o         p         q         r         s         t         u         v         w         x         y         z         
+3         1         4         3         15        3         0         2         4         0         0         2         1         6         4         1         0         5         5         7         4         1         1         0         0         0         
+
+Latin Letters     :      72
+Non-Latin Letters :      97
+Control Letters   :       4

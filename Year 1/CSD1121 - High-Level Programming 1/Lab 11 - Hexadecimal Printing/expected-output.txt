@@ -1,0 +1,30 @@
+41 61 61 41   42 62 62 42   43 63 63 43   44 64 64 44   |   A a a A   B b b B   C c c C   D d d D
+45 65 65 45   46 66 66 46   47 67 67 47   48 68 68 48   |   E e e E   F f f F   G g g G   H h h H
+49 69 69 49   4a 6a 6a 4a   4b 6b 6b 4b   4c 6c 6c 4c   |   I i i I   J j j J   K k k K   L l l L
+4d 6d 6d 4d   4e 6e 6e 4e   4f 6f 6f 4f   50 70 70 50   |   M m m M   N n n N   O o o O   P p p P
+
+41 61 61 41   42 62 62 42   |   A a a A   B b b B
+43 63 63 43   44 64 64 44   |   C c c C   D d d D
+45 65 65 45   46 66 66 46   |   E e e E   F f f F
+47 67 67 47   48 68 68 48   |   G g g G   H h h H
+49 69 69 49   4a 6a 6a 4a   |   I i i I   J j j J
+4b 6b 6b 4b   4c 6c 6c 4c   |   K k k K   L l l L
+4d 6d 6d 4d   4e 6e 6e 4e   |   M m m M   N n n N
+4f 6f 6f 4f   50 70 70 50   |   O o o O   P p p P
+
+41 61 61 41   |   A a a A
+42 62 62 42   |   B b b B
+43 63 63 43   |   C c c C
+44 64 64 44   |   D d d D
+45 65 65 45   |   E e e E
+46 66 66 46   |   F f f F
+47 67 67 47   |   G g g G
+48 68 68 48   |   H h h H
+49 69 69 49   |   I i i I
+4a 6a 6a 4a   |   J j j J
+4b 6b 6b 4b   |   K k k K
+4c 6c 6c 4c   |   L l l L
+4d 6d 6d 4d   |   M m m M
+4e 6e 6e 4e   |   N n n N
+4f 6f 6f 4f   |   O o o O
+50 70 70 50   |   P p p P

@@ -1,0 +1,208 @@
+============ test6a ============
+BEFORE: Four score and seven years ago.
+ AFTER: Four seven and score years ago.
+ AFTER: ago. seven and score years Four
+ AFTER: ago. see years Fcorven and sour
+============ test6b ============
+Any sufficiently advanced technology is indistinguishable from magic.
+Any sufficiently distinguishable fgy is inadvanced technolorom magic.
+Any sufficiently distin isshable fgygui inadvanced technolorom magic.
+Any sufficiently nced technolorom magui inadvadistin isshable fgygic.
+Any suadistin isshable fghnolorom magui inadvfficiently nced tecygic.
+Any suadist magui inadvffinoloromin isshable fghciently nced tecygic.
+Any sunadvffingui iadist maoloromin isshable fghciently nced tecygic.
+Any sunadvffomin isshable foloringui iadist maghciently nced tecygic.
+Any sunadvffomin it maghciently nced tecyssshable foloringui iadigic.
+Any sunadvffomin it mechciently nced tagyssshable foloringui iadigic.
+Any sunadvffomin isshable folorinced tagyst mechciently ngui iadigic.
+Any sunadvffomin issgyst mechorinced tahable folciently ngui iadigic.
+Any sunadvffomininced tahaechor issgyst mble folciently ngui iadigic.
+Any sunadvffomininced r isschotahaegyst mble folciently ngui iadigic.
+Any sunadvff folciently nguihotahaegyst mbleomininced r issc iadigic.
+Any sunadvff folcientlmininced r isgyst mbleoy nguihotahaesc iadigic.
+Any suna nguihotahaetlmininced r isgyst mbleoydvff folciensc iadigic.
+Anced r isgyst mbleoydmininy suna nguihotahaetlvff folciensc iadigic.
+Anced r isgyst mbleoydahaeny suna nguihotminitlvff folciensc iadigic.
+Anced r isgyst mnguihotmaeny suna bleoydahinitlvff folciensc iadigic.
+Anced r isgystmanguihot meny suna bleoydahinitlvff folciensc iadigic.
+Anced itlvff folnguihot meny suna bleoydahinr isgystmaciensc iadigic.
+Ancny suna bleoydahinrt meed itlvff folnguiho isgystmaciensc iadigic.
+Ancny suna bleoydahinro isgystmaciensc iguiht meed itlvff folnadigic.
+Aht y suna bleoydahinro isgystmaciensc iguincnmeed itlvff folnadigic.
+Aht y suna bleoyaahinro isgystmdciensc iguincnmeed itlvff folnadigic.
+Aht y suna bleoyaahiguincngystmdciensc inro ismeed itlvff folnadigic.
+Aht y suguincngysthina bleoyaamdciensc inro ismeed itlvff folnadigic.
+Aht y suguincngynsc inroleoyaamdciesthina b ismeed itlvff folnadigic.
+Aht y suguincaamdcieinroleoyngynsc sthina b ismeed itlvff folnadigic.
+Ahtcieinroincaamd y suguleoyngynsc sthina b ismeed itlvff folnadigic.
+Ahtcieinroincaamina b ismeoyngynsc sthd y suguleed itlvff folnadigic.
+Aht suguleed itlvff foismeoyngynsc sthd ycieinroincaamina b lnadigic.
+Aht suguloismitlvff feed eoyngynsc sthd ycieinroincaamina b lnadigic.
+Aht suguloismitlvff heed eoyngynsc stfd ycieinroincaamina b lnadigic.
+Aht sugulonroincaamina b lnangynsc stfd ycieiismitlvff heed eoydigic.
+Aht sugusc soincaamina b lnangynlonrtfd ycieiismitlvff heed eoydigic.
+Aht sugusc soincaaiismitlvnangynlonrtfd yciemina b lff heed eoydigic.
+Ahtgynlonr soincaaiismitlvnan sugusctfd yciemina b lff heed eoydigic.
+A sugusctfd yciemiiismitlvnanhtgynlonr soincaana b lff heed eoydigic.
+A sugusctgynloiemiiismitlvnanhtfd ycnr soincaana b lff heed eoydigic.
+A sugusctgycnr soincaana b lff heeynloiemiiismitlvnanhtfd d eoydigic.
+A sugusctgycnr smitlvnanhtfd d eoydigicemiiisoincaana b lff heeynloi.
+A sugusctgycnr smitlvisoinfd d eoydigicemiinanhtcaana b lff heeynloi.
+A sugusctgycnr smitlviydigicem eosoinfd diinanhtcaana b lff heeynloi.
+A sugusicem eo smitlviydigctgycnrsoinfd diinanhtcaana b lff heeynloi.
+A sugusicem soinfd diinanhtcaacnreo smitlviydigctgyna b lff heeynloi.
+A sugusicem soinfd diinviydigctgyna b itlanhtcaacnreo smlff heeynloi.
+A sugusicem soi b itlanhiydigctgynanfd diinvtcaacnreo smlff heeynloi.
+A sugusicemd diinvtcaacnrydigctgynanf soi b itlanhieo smlff heeynloi.
+A sugu itlad diinvtcaacnrydigctgynanf soi bsicemnhieo smlff heeynloi.
+A sugu itlad dcemnhieo srydigctgynanf soi bsiiinvtcaacnmlff heeynloi.
+A sugu itlad dcnf soi bsiidigctgynaemnhieo sryinvtcaacnmlff heeynloi.
+e sugu itlad dcnf soi bsiidigctgynaAmnhieo sryinvtcaacnmlff heeynloi.
+e sugu itlad dcnf soi binvtcaacnmlff heieo srysiidigctgynaAmnheynloi.
+e sugcnmlff heieo soi binvtcaau itlad dcnf srysiidigctgynaAmnheynloi.
+e sugcnmlff h dcnf srysiidigctg itladeieo soi binvtcaauynaAmnheynloi.
+e sugcnmlff hidigctg ysi dcnf sritladeieo soi binvtcaauynaAmnheynloi.
+e sugcnmlff h dcnf g ysiidigctsritladeieo soi binvtcaauynaAmnheynloi.
+e sugsoi binvtcaauyn ysiidigctsritladeieo cnmlff h dcnf gaAmnheynloi.
+e sugsoi binvtcaaieo cnmlff h dcnf adeuyn ysiidigctsritlgaAmnheynloi.
+e sugsoi binvth dcnf anmlff caaieo cdeuyn ysiidigctsritlgaAmnheynloi.
+e sugsoi siidigctcnf anmlff caaieo cdeuyn ybinvth dsritlgaAmnheynloi.
+e sugsoi sideuyn ybinvth ds caaieo cidigctcnf anmlffritlgaAmnheynloi.
+  sugsoi sideuyneybinvth ds caaieo cidigctcnf anmlffritlgaAmnheynloi.
+  sugsoi sideuyn anmlffritlgaAmnheycidigctcnfeybinvth ds caaieo nloi.
+  sugsnmlffdeuyn aoi siritlgaAmnheycidigctcnfeybinvth ds caaieo nloi.
+  sugsnmlffdeuyn aoi sinfeybinvnheycidigctcritlgaAmth ds caaieo nloi.
+  sugsnmlffdeuyn aoilgaAmth ds caaycidigctcrit sinfeybinvnheieo nloi.
+  sugsnmlffdeuyn ctcrit sth ds caaycidigaoilgaAminfeybinvnheieo nloi.
+  sugsnmlffdeuycaaycrit sth ds n ctcidigaoilgaAminfeybinvnheieo nloi.
+   ctcidigaoilgaaaycrit sth ds nsugsnmlffdeuycAminfeybinvnheieo nloi.
+   ctcidigaoilgaaay nsugsnmlffcrit sth dsdeuycAminfeybinvnheieo nloi.
+   ctcidigaoth dsdeuycAminfeybinvt silgaaay nsugsnmlffcrinheieo nloi.
+   ctcidigaoth dbinvt Aminfeysdeuycsilgaaay nsugsnmlffcrinheieo nloi.
+ cict  digaoth dbinvt Aminfeysdeuycsilgaaay nsugsnmlffcrinheieo nloi.
+dbinvt digaoth  cict  Aminfeysdeuycsilgaaay nsugsnmlffcrinheieo nloi.
+dbinvt digaoth  cict  Algaaay nsuycsiminfeysdeugsnmlffcrinheieo nloi.
+dbinvt digeugsnmlffc  Algaaay nsuycsiminfeysdaoth  cictrinheieo nloi.
+dbinvt dysdaoth  cictrinheieo nsuycsiminfeigeugsnmlffc  Algaaay nloi.
+dbinvt dygsnmlffc  Algaaay nloi.uycsiminfeigeusdaoth  cictrinheieo ns
+dbinvt deusdaoth  cilgaaay nloi.uycsiminfeigygsnmlffc  Actrinheieo ns
+dbinvt oi.uycsiminfelgaaay nldeusdaoth  ciigygsnmlffc  Actrinheieo ns
+dbinvt oi.uth  ciigygsnmlffcldeusdaoycsiminfelgaaay n  Actrinheieo ns
+dbinfelgaauth  ciigygsnmlffcldeusdaoycsiminvt oi.ay n  Actrinheieo ns
+dbinfelgaauth  cioi.ay mlffcldeusdaoycsiminvt igygsnn  Actrinheieo ns
+dbinfelgaminvt igygsnn  lffcldeusdaoycsiauth  cioi.ay mActrinheieo ns
+dbinfelgaminvt igygsnno lffcldeusda ycsiauth  cioi.ay mActrinheieo ns
+dbinfelgaminvt a ycsiauth  cioi.adigygsnno lffcldeusy mActrinheieo ns
+dbinfh  cminvt a ycsiautelgaioi.adigygsnno lffcldeusy mActrinheieo ns
+dbinfh  cminvt a ycsno lffcldeusy mActrniautelgaioi.adigygsinheieo ns
+dbinfh  cminvt a niautelgaioi.adigygsinycsno lffcldeusy mActrheieo ns
+dbinnycsno lffca niautelgaioi.adigygsifh  cminvt ldeusy mActrheieo ns
+dbinnycsno lffcaminvt ldeusy mActrheieoh  c niautelgaioi.adigygsif ns
+dbiheieoh  lffcaminvt ldeusy mActrnnycsno c niautelgaioi.adigygsif ns
+dbnnycsno c niautelgt ldeusy mActriheieoh  lffcaminvaioi.adigygsif ns
+dbnnycsno c niautelgt l lffcamActriheieoh deusy minvaioi.adigygsif ns
+dbnnycsno c niautelgt deusy minvaioi.adig l lffcamActriheieohygsif ns
+dlffcamActriheiutelgt deusy minvaioi.adig l bnnycsno c niaeohygsif ns
+dlffcamActrbnnycsno c niaey minvaioi.adig l iheiutelgt deusohygsif ns
+dlffcamActrbnnycsno c l iheiutelgt deusoh niaey minvaioi.adigygsif ns
+*********************************************************************
+dlffcamActrbnnycsno c niaey minvaioi.adig l iheiutelgt deusohygsif ns
+dlffcamActriheiutelgt deusy minvaioi.adig l bnnycsno c niaeohygsif ns
+dbnnycsno c niautelgt deusy minvaioi.adig l lffcamActriheieohygsif ns
+dbnnycsno c niautelgt l lffcamActriheieoh deusy minvaioi.adigygsif ns
+dbnnycsno c niautelgt ldeusy mActriheieoh  lffcaminvaioi.adigygsif ns
+dbiheieoh  lffcaminvt ldeusy mActrnnycsno c niautelgaioi.adigygsif ns
+dbinnycsno lffcaminvt ldeusy mActrheieoh  c niautelgaioi.adigygsif ns
+dbinnycsno lffca niautelgaioi.adigygsifh  cminvt ldeusy mActrheieo ns
+dbinfh  cminvt a niautelgaioi.adigygsinycsno lffcldeusy mActrheieo ns
+dbinfh  cminvt a ycsno lffcldeusy mActrniautelgaioi.adigygsinheieo ns
+dbinfh  cminvt a ycsiautelgaioi.adigygsnno lffcldeusy mActrinheieo ns
+dbinfelgaminvt a ycsiauth  cioi.adigygsnno lffcldeusy mActrinheieo ns
+dbinfelgaminvt igygsnno lffcldeusda ycsiauth  cioi.ay mActrinheieo ns
+dbinfelgaminvt igygsnn  lffcldeusdaoycsiauth  cioi.ay mActrinheieo ns
+dbinfelgaauth  cioi.ay mlffcldeusdaoycsiminvt igygsnn  Actrinheieo ns
+dbinfelgaauth  ciigygsnmlffcldeusdaoycsiminvt oi.ay n  Actrinheieo ns
+dbinvt oi.uth  ciigygsnmlffcldeusdaoycsiminfelgaaay n  Actrinheieo ns
+dbinvt oi.uycsiminfelgaaay nldeusdaoth  ciigygsnmlffc  Actrinheieo ns
+dbinvt deusdaoth  cilgaaay nloi.uycsiminfeigygsnmlffc  Actrinheieo ns
+dbinvt dygsnmlffc  Algaaay nloi.uycsiminfeigeusdaoth  cictrinheieo ns
+dbinvt dysdaoth  cictrinheieo nsuycsiminfeigeugsnmlffc  Algaaay nloi.
+dbinvt digeugsnmlffc  Algaaay nsuycsiminfeysdaoth  cictrinheieo nloi.
+dbinvt digaoth  cict  Algaaay nsuycsiminfeysdeugsnmlffcrinheieo nloi.
+dbinvt digaoth  cict  Aminfeysdeuycsilgaaay nsugsnmlffcrinheieo nloi.
+ cict  digaoth dbinvt Aminfeysdeuycsilgaaay nsugsnmlffcrinheieo nloi.
+   ctcidigaoth dbinvt Aminfeysdeuycsilgaaay nsugsnmlffcrinheieo nloi.
+   ctcidigaoth dsdeuycAminfeybinvt silgaaay nsugsnmlffcrinheieo nloi.
+   ctcidigaoilgaaay nsugsnmlffcrit sth dsdeuycAminfeybinvnheieo nloi.
+   ctcidigaoilgaaaycrit sth ds nsugsnmlffdeuycAminfeybinvnheieo nloi.
+  sugsnmlffdeuycaaycrit sth ds n ctcidigaoilgaAminfeybinvnheieo nloi.
+  sugsnmlffdeuyn ctcrit sth ds caaycidigaoilgaAminfeybinvnheieo nloi.
+  sugsnmlffdeuyn aoilgaAmth ds caaycidigctcrit sinfeybinvnheieo nloi.
+  sugsnmlffdeuyn aoi sinfeybinvnheycidigctcritlgaAmth ds caaieo nloi.
+  sugsnmlffdeuyn aoi siritlgaAmnheycidigctcnfeybinvth ds caaieo nloi.
+  sugsoi sideuyn anmlffritlgaAmnheycidigctcnfeybinvth ds caaieo nloi.
+  sugsoi sideuyneybinvth ds caaieo cidigctcnf anmlffritlgaAmnheynloi.
+e sugsoi sideuyn ybinvth ds caaieo cidigctcnf anmlffritlgaAmnheynloi.
+e sugsoi siidigctcnf anmlff caaieo cdeuyn ybinvth dsritlgaAmnheynloi.
+e sugsoi binvth dcnf anmlff caaieo cdeuyn ysiidigctsritlgaAmnheynloi.
+e sugsoi binvtcaaieo cnmlff h dcnf adeuyn ysiidigctsritlgaAmnheynloi.
+e sugsoi binvtcaauyn ysiidigctsritladeieo cnmlff h dcnf gaAmnheynloi.
+e sugcnmlff h dcnf g ysiidigctsritladeieo soi binvtcaauynaAmnheynloi.
+e sugcnmlff hidigctg ysi dcnf sritladeieo soi binvtcaauynaAmnheynloi.
+e sugcnmlff h dcnf srysiidigctg itladeieo soi binvtcaauynaAmnheynloi.
+e sugcnmlff heieo soi binvtcaau itlad dcnf srysiidigctgynaAmnheynloi.
+e sugu itlad dcnf soi binvtcaacnmlff heieo srysiidigctgynaAmnheynloi.
+e sugu itlad dcnf soi bsiidigctgynaAmnhieo sryinvtcaacnmlff heeynloi.
+A sugu itlad dcnf soi bsiidigctgynaemnhieo sryinvtcaacnmlff heeynloi.
+A sugu itlad dcemnhieo srydigctgynanf soi bsiiinvtcaacnmlff heeynloi.
+A sugu itlad diinvtcaacnrydigctgynanf soi bsicemnhieo smlff heeynloi.
+A sugusicemd diinvtcaacnrydigctgynanf soi b itlanhieo smlff heeynloi.
+A sugusicem soi b itlanhiydigctgynanfd diinvtcaacnreo smlff heeynloi.
+A sugusicem soinfd diinviydigctgyna b itlanhtcaacnreo smlff heeynloi.
+A sugusicem soinfd diinanhtcaacnreo smitlviydigctgyna b lff heeynloi.
+A sugusicem eo smitlviydigctgycnrsoinfd diinanhtcaana b lff heeynloi.
+A sugusctgycnr smitlviydigicem eosoinfd diinanhtcaana b lff heeynloi.
+A sugusctgycnr smitlvisoinfd d eoydigicemiinanhtcaana b lff heeynloi.
+A sugusctgycnr smitlvnanhtfd d eoydigicemiiisoincaana b lff heeynloi.
+A sugusctgycnr soincaana b lff heeynloiemiiismitlvnanhtfd d eoydigic.
+A sugusctgynloiemiiismitlvnanhtfd ycnr soincaana b lff heed eoydigic.
+A sugusctfd yciemiiismitlvnanhtgynlonr soincaana b lff heed eoydigic.
+Ahtgynlonr soincaaiismitlvnan sugusctfd yciemina b lff heed eoydigic.
+Aht sugusc soincaaiismitlvnangynlonrtfd yciemina b lff heed eoydigic.
+Aht sugusc soincaamina b lnangynlonrtfd ycieiismitlvff heed eoydigic.
+Aht sugulonroincaamina b lnangynsc stfd ycieiismitlvff heed eoydigic.
+Aht suguloismitlvff heed eoyngynsc stfd ycieinroincaamina b lnadigic.
+Aht suguloismitlvff feed eoyngynsc sthd ycieinroincaamina b lnadigic.
+Aht suguleed itlvff foismeoyngynsc sthd ycieinroincaamina b lnadigic.
+Ahtcieinroincaamina b ismeoyngynsc sthd y suguleed itlvff folnadigic.
+Ahtcieinroincaamd y suguleoyngynsc sthina b ismeed itlvff folnadigic.
+Aht y suguincaamdcieinroleoyngynsc sthina b ismeed itlvff folnadigic.
+Aht y suguincngynsc inroleoyaamdciesthina b ismeed itlvff folnadigic.
+Aht y suguincngysthina bleoyaamdciensc inro ismeed itlvff folnadigic.
+Aht y suna bleoyaahiguincngystmdciensc inro ismeed itlvff folnadigic.
+Aht y suna bleoyaahinro isgystmdciensc iguincnmeed itlvff folnadigic.
+Aht y suna bleoydahinro isgystmaciensc iguincnmeed itlvff folnadigic.
+Ancny suna bleoydahinro isgystmaciensc iguiht meed itlvff folnadigic.
+Ancny suna bleoydahinrt meed itlvff folnguiho isgystmaciensc iadigic.
+Anced itlvff folnguihot meny suna bleoydahinr isgystmaciensc iadigic.
+Anced r isgystmanguihot meny suna bleoydahinitlvff folciensc iadigic.
+Anced r isgyst mnguihotmaeny suna bleoydahinitlvff folciensc iadigic.
+Anced r isgyst mbleoydahaeny suna nguihotminitlvff folciensc iadigic.
+Anced r isgyst mbleoydmininy suna nguihotahaetlvff folciensc iadigic.
+Any suna nguihotahaetlmininced r isgyst mbleoydvff folciensc iadigic.
+Any sunadvff folcientlmininced r isgyst mbleoy nguihotahaesc iadigic.
+Any sunadvff folciently nguihotahaegyst mbleomininced r issc iadigic.
+Any sunadvffomininced r isschotahaegyst mble folciently ngui iadigic.
+Any sunadvffomininced tahaechor issgyst mble folciently ngui iadigic.
+Any sunadvffomin issgyst mechorinced tahable folciently ngui iadigic.
+Any sunadvffomin isshable folorinced tagyst mechciently ngui iadigic.
+Any sunadvffomin it mechciently nced tagyssshable foloringui iadigic.
+Any sunadvffomin it maghciently nced tecyssshable foloringui iadigic.
+Any sunadvffomin isshable foloringui iadist maghciently nced tecygic.
+Any sunadvffingui iadist maoloromin isshable fghciently nced tecygic.
+Any suadist magui inadvffinoloromin isshable fghciently nced tecygic.
+Any suadistin isshable fghnolorom magui inadvfficiently nced tecygic.
+Any sufficiently nced technolorom magui inadvadistin isshable fgygic.
+Any sufficiently distin isshable fgygui inadvanced technolorom magic.
+Any sufficiently distinguishable fgy is inadvanced technolorom magic.
+Any sufficiently advanced technology is indistinguishable from magic.

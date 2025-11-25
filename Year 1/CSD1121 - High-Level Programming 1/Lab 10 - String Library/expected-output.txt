@@ -1,0 +1,94 @@
+Allocating 35 bytes... done.
+The length of the path "/home/user/files/documents/images/" is 34.
+Allocating 44 bytes... done.
+The length of the path "/home/user/files/documents/images/20201031/" is 43.
+Searching for a string:
+	Text:     /home/user/files/documents/images/20201031/
+	Sub-text: /home/user/files/documents/images/
+	Result:   found 34 characters at a position 0.
+Searching for a string:
+	Text:     /home/user/files/documents/images/20201031/
+	Sub-text: 20201031
+	Result:   found 8 characters at a position 34.
+Left string goes first.
+Right string goes first.
+Both strings are equal.
+Allocating 44 bytes... done.
+The length of the path "/home/user/files/documents/images/20201201/" is 43.
+Searching for a string:
+	Text:     /home/user/files/documents/images/20201201/
+	Sub-text: /home/user/files/documents/images/
+	Result:   found 34 characters at a position 0.
+Searching for a string:
+	Text:     /home/user/files/documents/images/20201201/
+	Sub-text: 20201201
+	Result:   found 8 characters at a position 34.
+Left string goes first.
+Right string goes first.
+Searching for a string:
+	Text:     /home/user/files/documents/images/20201031/
+	Sub-text: /home/user/files/documents/images/20201201/
+	Result:   not found
+Searching for a string:
+	Text:     /home/user/files/documents/images/20201201/
+	Sub-text: /home/user/files/documents/images/20201031/
+	Result:   not found
+Searching for a string:
+	Text:     /home/user/files/documents/images/20201031/
+	Sub-text: 20201201
+	Result:   not found
+Searching for a string:
+	Text:     /home/user/files/documents/images/20201201/
+	Sub-text: 20201031
+	Result:   not found
+Deallocated data.
+Deallocated data.
+Deallocated data.
+-------------------------------------------------------------------
+Allocating 37 bytes... done.
+The length of the path "c:\home\user\files\documents\images\" is 36.
+Allocating 46 bytes... done.
+The length of the path "c:\home\user\files\documents\images\20201031\" is 45.
+Searching for a string:
+	Text:     c:\home\user\files\documents\images\20201031\
+	Sub-text: c:\home\user\files\documents\images\
+	Result:   found 36 characters at a position 0.
+Searching for a string:
+	Text:     c:\home\user\files\documents\images\20201031\
+	Sub-text: 20201031
+	Result:   found 8 characters at a position 36.
+Left string goes first.
+Right string goes first.
+Both strings are equal.
+Allocating 46 bytes... done.
+The length of the path "c:\home\user\files\documents\images\20201201\" is 45.
+Searching for a string:
+	Text:     c:\home\user\files\documents\images\20201201\
+	Sub-text: c:\home\user\files\documents\images\
+	Result:   found 36 characters at a position 0.
+Searching for a string:
+	Text:     c:\home\user\files\documents\images\20201201\
+	Sub-text: 20201201
+	Result:   found 8 characters at a position 36.
+Left string goes first.
+Right string goes first.
+Searching for a string:
+	Text:     c:\home\user\files\documents\images\20201031\
+	Sub-text: c:\home\user\files\documents\images\20201201\
+	Result:   not found
+Searching for a string:
+	Text:     c:\home\user\files\documents\images\20201201\
+	Sub-text: c:\home\user\files\documents\images\20201031\
+	Result:   not found
+Searching for a string:
+	Text:     c:\home\user\files\documents\images\20201031\
+	Sub-text: 20201201
+	Result:   not found
+Searching for a string:
+	Text:     c:\home\user\files\documents\images\20201201\
+	Sub-text: 20201031
+	Result:   not found
+Deallocated data.
+Deallocated data.
+Deallocated data.
+-------------------------------------------------------------------

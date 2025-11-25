@@ -1,0 +1,6 @@
+Size of data set  :         100
+Maximum grade     :     995.680
+Minimum grade     :     208.020
+Mean    grade     :     593.985
+Variance          :   53298.571
+Standard deviation:     230.865

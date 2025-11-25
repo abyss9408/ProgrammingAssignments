@@ -1,0 +1,24 @@
+Please enter the number of integers: Input value was 4.
+Please enter the number of integers: There is no third largest number.
+Please enter the number of integers: There is no third largest number.
+Please enter the number of integers: There is no third largest number.
+50, 68, 90
+-1, -20, -30
+-1000, 70
+999, 42
+80, 67, 55
+23453453, 102323, 67
+7987, -78, -43545
+-7987, -324324, -8843545
+4, 3, 2
+10, 8, 3
+2343243, 87878, 99
+-100, -101, -102
+0, -99, -23423
+400, 300, 200
+Please enter the number of integers: The third largest number is 3.
+Please enter the number of integers: The third largest number is 87.
+Please enter the number of integers: The third largest number is -10.
+Please enter the number of integers: There is no third largest number.
+Please enter the number of integers: The third largest number is 32750.
+Please enter the number of integers: The third largest number is 15020.

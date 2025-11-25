@@ -1,0 +1,16 @@
+Total number of grades: 25
+
+Letter Grade |  %age 
+----------------------
+     A       | 36.00
+     B       | 20.00
+     C       | 32.00
+     D       | 12.00
+     F       |  0.00
+
+Maximum grade     :  97.37
+Minimum grade     :  62.68
+Average grade     :  83.27
+Variance          : 115.70
+Standard deviation:  10.76
+Median grade      :  87.60

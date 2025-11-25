@@ -1,0 +1,19 @@
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+0123456789
+This is a simple string.
+These	words	are	separated	by	tabs.
+  This string has leading and trailing spaces.  
+    	 This	  string  	 		  has 	  	five	
+  words.
+  	 This	  string
+  	 		  has
+ 	
+  	"more" than five 
+	
+  words.
+The C programming
+language	makes it easy
+to manipulate text	files,
+and process data
+byte-by-byte.

@@ -1,0 +1,29 @@
+age = 15, number of accidents = 0, no insurance coverage!
+age = 15, number of accidents = 1, no insurance coverage!
+age = 15, number of accidents = 2, no insurance coverage!
+age = 15, number of accidents = 3, no insurance coverage!
+age = 15, number of accidents = 4, no insurance coverage!
+age = 15, number of accidents = 5, no insurance coverage!
+age = 16, number of accidents = 0, insurance cost = 550
+age = 16, number of accidents = 1, insurance cost = 650
+age = 16, number of accidents = 2, insurance cost = 650
+age = 16, number of accidents = 3, insurance cost = 775
+age = 16, number of accidents = 4, insurance cost = 775
+age = 16, number of accidents = 5, no insurance coverage!
+age = 24, number of accidents = 0, insurance cost = 550
+age = 24, number of accidents = 1, insurance cost = 650
+age = 24, number of accidents = 2, insurance cost = 650
+age = 24, number of accidents = 3, insurance cost = 775
+age = 24, number of accidents = 4, insurance cost = 775
+age = 24, number of accidents = 5, no insurance coverage!
+age = 25, number of accidents = 0, insurance cost = 500
+age = 25, number of accidents = 1, insurance cost = 600
+age = 25, number of accidents = 2, insurance cost = 600
+age = 25, number of accidents = 3, insurance cost = 725
+age = 25, number of accidents = 4, insurance cost = 725
+age = 25, number of accidents = 5, no insurance coverage!
+4321
+1
+0
+-1
+-321

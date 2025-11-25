@@ -1,0 +1,112 @@
+============ test5 ============
+abc
+abc
+The bytes are the same.
+abcc
+abcd
+The first bytes are less than the second bytes.
+mnopqr
+ghijkl
+The first bytes are greater than the second bytes.
+wxyz
+jklp
+The first bytes are greater than the second bytes.
+k
+k
+The bytes are the same.
+ghijkl
+ghijkl
+The bytes are the same.
+a
+a
+The bytes are the same.
+b
+b
+The bytes are the same.
+c
+c
+The bytes are the same.
+c
+d
+The first bytes are less than the second bytes.
+e
+e
+The bytes are the same.
+f
+f
+The bytes are the same.
+g
+x
+The first bytes are less than the second bytes.
+h
+x
+The first bytes are less than the second bytes.
+i
+x
+The first bytes are less than the second bytes.
+j
+x
+The first bytes are less than the second bytes.
+k
+x
+The first bytes are less than the second bytes.
+l
+g
+The first bytes are greater than the second bytes.
+m
+h
+The first bytes are greater than the second bytes.
+n
+i
+The first bytes are greater than the second bytes.
+o
+j
+The first bytes are greater than the second bytes.
+p
+k
+The first bytes are greater than the second bytes.
+q
+l
+The first bytes are greater than the second bytes.
+r
+p
+The first bytes are greater than the second bytes.
+s
+q
+The first bytes are greater than the second bytes.
+t
+w
+The first bytes are less than the second bytes.
+u
+x
+The first bytes are less than the second bytes.
+v
+y
+The first bytes are less than the second bytes.
+w
+z
+The first bytes are less than the second bytes.
+x
+a
+The first bytes are greater than the second bytes.
+y
+b
+The first bytes are greater than the second bytes.
+z
+c
+The first bytes are greater than the second bytes.
+x
+d
+The first bytes are greater than the second bytes.
+x
+e
+The first bytes are greater than the second bytes.
+x
+f
+The first bytes are greater than the second bytes.
+x
+x
+The bytes are the same.
+x
+x
+The bytes are the same.

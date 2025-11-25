@@ -1,0 +1,13 @@
+============ test1 ============
+01234567890123456789012345
+abcdefghijklmnopqrstuvwxyz
+Found 'a' at offset 0
+Found 'i' at offset 8
+Found 'm' at offset 12
+Found 'z' at offset 25
+Didn't find byte: X
+Didn't find byte: 1
+Didn't find z
+Found p at offset 15
+Didn't find a
+Didn't find b

@@ -1,0 +1,5 @@
+============ test6 ============
+BEFORE: Four score and seven years ago.
+ AFTER: Four seven and score years ago.
+ AFTER: ago. seven and score years Four
+ AFTER: ago. see years Fcorven and sour

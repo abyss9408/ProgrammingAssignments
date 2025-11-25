@@ -1,0 +1,3 @@
+3 loonies + 0 half-loonies + 0 quarters + 0 dimes + 0 nickels + 1 pennies
+2654 loonies + 0 half-loonies + 1 quarters + 0 dimes + 1 nickels + 3 pennies
+6000 loonies + 0 half-loonies + 0 quarters + 0 dimes + 0 nickels + 0 pennies

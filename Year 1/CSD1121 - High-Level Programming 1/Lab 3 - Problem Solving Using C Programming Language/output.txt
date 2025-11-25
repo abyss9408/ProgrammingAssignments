@@ -1,0 +1,12 @@
+Wall length: 100.00 | Tile width: 5.00
+Number of tiles: 19
+Gap at each end: 2.50
+Wall length: 34.50 | Tile width: 6.00
+Number of tiles: 5
+Gap at each end: 2.25
+Wall length: 78.90 | Tile width: 10.11
+Number of tiles: 7
+Gap at each end: 4.07
+3 loonies + 0 half-loonies + 0 quarters + 0 dimes + 0 nickels + 1 pennies
+2654 loonies + 0 half-loonies + 1 quarters + 0 dimes + 1 nickels + 3 pennies
+6000 loonies + 0 half-loonies + 0 quarters + 0 dimes + 0 nickels + 0 pennies

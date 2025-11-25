@@ -1,0 +1,6 @@
+a         b         c         d         e         f         g         h         i         j         k         l         m         n         o         p         q         r         s         t         u         v         w         x         y         z         
+1005      201       804       603       805       603       603       402       1608      0         0         603       402       1206      603       0         0         201       805       605       402       201       0         0         603       0         
+
+Latin Letters     :   12265
+Non-Latin Letters :    1704
+Control Letters   :     203

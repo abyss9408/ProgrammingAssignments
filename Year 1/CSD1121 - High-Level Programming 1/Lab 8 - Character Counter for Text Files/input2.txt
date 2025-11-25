@@ -1,0 +1,5 @@
+============ test2 ============
+012345678901234567890123456789012345678901234567890
+There's a fine line between clever and stupid.
+Didn't find any bytes: gjkqxyz
+Found 'b' at offset 20
