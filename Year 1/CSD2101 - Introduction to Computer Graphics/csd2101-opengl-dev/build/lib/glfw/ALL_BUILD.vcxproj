@@ -25,9 +25,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{E25D4FD7-804D-35B3-BA60-C925B9E4F82E}</ProjectGuid>
+    <ProjectGuid>{4DB4339B-8FEF-3B40-8743-1CCCEB8E1010}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.26100.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
     <ProjectName>ALL_BUILD</ProjectName>
     <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
@@ -108,11 +108,11 @@
     </Midl>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMakeLists.txt">
+    <CustomBuild Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMakeLists.txt">
       <UseUtf8Encoding>Always</UseUtf8Encoding>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule D:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/lib/glfw/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule D:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/lib/glfw/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SD:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev" "-BD:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build" --check-stamp-file "D:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/lib/glfw/CMakeFiles/generate.stamp"
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev" "-BD:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build" --check-stamp-file "D:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/lib/glfw/CMakeFiles/generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -120,12 +120,12 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Program Files\CMake\share\cmake-3.29\Modules\BasicConfigVersion-SameMajorVersion.cmake.in;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeDependentOption.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakePackageConfigHelpers.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CheckCSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindThreads.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Internal\CheckSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\WriteBasicConfigVersionFile.cmake;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMake\cmake_uninstall.cmake.in;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMake\glfw3Config.cmake.in;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Program Files\CMake\share\cmake-3.29\Modules\BasicConfigVersion-SameMajorVersion.cmake.in;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeDependentOption.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakePackageConfigHelpers.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CheckCSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindThreads.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Internal\CheckSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\WriteBasicConfigVersionFile.cmake;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMake\cmake_uninstall.cmake.in;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMake\glfw3Config.cmake.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule D:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/lib/glfw/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule D:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/lib/glfw/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SD:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev" "-BD:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build" --check-stamp-file "D:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/lib/glfw/CMakeFiles/generate.stamp"
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev" "-BD:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build" --check-stamp-file "D:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/lib/glfw/CMakeFiles/generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -133,12 +133,12 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Program Files\CMake\share\cmake-3.29\Modules\BasicConfigVersion-SameMajorVersion.cmake.in;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeDependentOption.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakePackageConfigHelpers.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CheckCSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindThreads.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Internal\CheckSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\WriteBasicConfigVersionFile.cmake;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMake\cmake_uninstall.cmake.in;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMake\glfw3Config.cmake.in;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Program Files\CMake\share\cmake-3.29\Modules\BasicConfigVersion-SameMajorVersion.cmake.in;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeDependentOption.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakePackageConfigHelpers.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CheckCSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindThreads.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Internal\CheckSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\WriteBasicConfigVersionFile.cmake;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMake\cmake_uninstall.cmake.in;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMake\glfw3Config.cmake.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule D:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/lib/glfw/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule D:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/lib/glfw/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SD:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev" "-BD:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build" --check-stamp-file "D:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/lib/glfw/CMakeFiles/generate.stamp"
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev" "-BD:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build" --check-stamp-file "D:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/lib/glfw/CMakeFiles/generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -146,12 +146,12 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Program Files\CMake\share\cmake-3.29\Modules\BasicConfigVersion-SameMajorVersion.cmake.in;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeDependentOption.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakePackageConfigHelpers.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CheckCSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindThreads.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Internal\CheckSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\WriteBasicConfigVersionFile.cmake;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMake\cmake_uninstall.cmake.in;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMake\glfw3Config.cmake.in;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Program Files\CMake\share\cmake-3.29\Modules\BasicConfigVersion-SameMajorVersion.cmake.in;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeDependentOption.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakePackageConfigHelpers.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CheckCSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindThreads.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Internal\CheckSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\WriteBasicConfigVersionFile.cmake;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMake\cmake_uninstall.cmake.in;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMake\glfw3Config.cmake.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule D:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/lib/glfw/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule D:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/lib/glfw/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SD:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev" "-BD:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build" --check-stamp-file "D:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/lib/glfw/CMakeFiles/generate.stamp"
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev" "-BD:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build" --check-stamp-file "D:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/lib/glfw/CMakeFiles/generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -159,28 +159,28 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Program Files\CMake\share\cmake-3.29\Modules\BasicConfigVersion-SameMajorVersion.cmake.in;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeDependentOption.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakePackageConfigHelpers.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CheckCSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindThreads.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Internal\CheckSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\WriteBasicConfigVersionFile.cmake;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMake\cmake_uninstall.cmake.in;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMake\glfw3Config.cmake.in;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Program Files\CMake\share\cmake-3.29\Modules\BasicConfigVersion-SameMajorVersion.cmake.in;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakeDependentOption.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CMakePackageConfigHelpers.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CheckCSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\FindThreads.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\Internal\CheckSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.29\Modules\WriteBasicConfigVersionFile.cmake;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMake\cmake_uninstall.cmake.in;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMake\glfw3Config.cmake.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\ZERO_CHECK.vcxproj">
-      <Project>{4DB06C84-D3C6-3C08-A8C0-B960429BD86D}</Project>
+    <ProjectReference Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\ZERO_CHECK.vcxproj">
+      <Project>{53F7CB16-6721-385D-9251-45F067DFE720}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\docs\docs.vcxproj">
-      <Project>{A92F88E1-F2B0-3BC6-9158-9D65A5CB3EB1}</Project>
+    <ProjectReference Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\docs\docs.vcxproj">
+      <Project>{DD080860-8ADD-3702-9C2C-F424530D3FD1}</Project>
       <Name>docs</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src\glfw.vcxproj">
-      <Project>{8288FAE8-6446-3982-84A2-B7A1C7744B30}</Project>
+    <ProjectReference Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src\glfw.vcxproj">
+      <Project>{1E517052-6B5F-3D25-8CDE-0D03B6688964}</Project>
       <Name>glfw</Name>
     </ProjectReference>
   </ItemGroup>

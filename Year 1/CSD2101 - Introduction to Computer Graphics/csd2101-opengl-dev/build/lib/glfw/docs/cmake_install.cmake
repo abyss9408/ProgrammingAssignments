@@ -1,4 +1,4 @@
-# Install script for directory: D:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/lib/glfw/docs
+# Install script for directory: D:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/lib/glfw/docs
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -33,6 +33,6 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/doc/GLFW" TYPE DIRECTORY FILES "D:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/lib/glfw/docs/html")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/doc/GLFW" TYPE DIRECTORY FILES "D:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/lib/glfw/docs/html")
 endif()
 

@@ -1,9 +1,9 @@
 
-if (NOT EXISTS "D:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/lib/glfw/install_manifest.txt")
-    message(FATAL_ERROR "Cannot find install manifest: \"D:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/lib/glfw/install_manifest.txt\"")
+if (NOT EXISTS "D:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/lib/glfw/install_manifest.txt")
+    message(FATAL_ERROR "Cannot find install manifest: \"D:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/lib/glfw/install_manifest.txt\"")
 endif()
 
-file(READ "D:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/lib/glfw/install_manifest.txt" files)
+file(READ "D:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/lib/glfw/install_manifest.txt" files)
 string(REGEX REPLACE "\n" ";" files "${files}")
 
 foreach (file ${files})

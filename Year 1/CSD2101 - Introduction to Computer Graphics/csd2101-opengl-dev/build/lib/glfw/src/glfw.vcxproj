@@ -22,9 +22,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{8288FAE8-6446-3982-84A2-B7A1C7744B30}</ProjectGuid>
+    <ProjectGuid>{1E517052-6B5F-3D25-8CDE-0D03B6688964}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.26100.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
     <ProjectName>glfw</ProjectName>
     <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
@@ -59,26 +59,26 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
     <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src\Debug\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src\Debug\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">glfw.dir\Debug\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">glfw3</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.lib</TargetExt>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src\Release\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src\Release\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">glfw.dir\Release\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">glfw3</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.lib</TargetExt>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src\MinSizeRel\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src\MinSizeRel\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">glfw.dir\MinSizeRel\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">glfw3</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">.lib</TargetExt>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src\RelWithDebInfo\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src\RelWithDebInfo\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">glfw.dir\RelWithDebInfo\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">glfw3</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">.lib</TargetExt>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
       <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
@@ -96,10 +96,10 @@
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_DEBUG;_WINDOWS;_GLFW_WIN32;UNICODE;_UNICODE;_CRT_SECURE_NO_WARNINGS;USE_CSD2101_AUTOMATION=0;GLEW_STATIC;CMAKE_INTDIR=\"Debug\"</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -112,7 +112,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
       <ExceptionHandling>
       </ExceptionHandling>
@@ -130,10 +130,10 @@
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;_GLFW_WIN32;UNICODE;_UNICODE;_CRT_SECURE_NO_WARNINGS;USE_CSD2101_AUTOMATION=0;GLEW_STATIC;CMAKE_INTDIR=\"Release\"</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -146,7 +146,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
       <ExceptionHandling>
       </ExceptionHandling>
@@ -164,10 +164,10 @@
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;_GLFW_WIN32;UNICODE;_UNICODE;_CRT_SECURE_NO_WARNINGS;USE_CSD2101_AUTOMATION=0;GLEW_STATIC;CMAKE_INTDIR=\"MinSizeRel\"</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -180,7 +180,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
       <ExceptionHandling>
@@ -197,10 +197,10 @@
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;_GLFW_WIN32;UNICODE;_UNICODE;_CRT_SECURE_NO_WARNINGS;USE_CSD2101_AUTOMATION=0;GLEW_STATIC;CMAKE_INTDIR=\"RelWithDebInfo\"</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src;D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src;D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -212,11 +212,11 @@
     </Lib>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\CMakeLists.txt">
+    <CustomBuild Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\CMakeLists.txt">
       <UseUtf8Encoding>Always</UseUtf8Encoding>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule D:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/lib/glfw/src/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule D:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/lib/glfw/src/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SD:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev" "-BD:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build" --check-stamp-file "D:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/lib/glfw/src/CMakeFiles/generate.stamp"
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev" "-BD:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build" --check-stamp-file "D:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/lib/glfw/src/CMakeFiles/generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -224,12 +224,12 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMake\glfw3.pc.in;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMake\glfw3.pc.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule D:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/lib/glfw/src/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule D:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/lib/glfw/src/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SD:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev" "-BD:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build" --check-stamp-file "D:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/lib/glfw/src/CMakeFiles/generate.stamp"
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev" "-BD:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build" --check-stamp-file "D:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/lib/glfw/src/CMakeFiles/generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -237,12 +237,12 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMake\glfw3.pc.in;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMake\glfw3.pc.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule D:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/lib/glfw/src/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule D:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/lib/glfw/src/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SD:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev" "-BD:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build" --check-stamp-file "D:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/lib/glfw/src/CMakeFiles/generate.stamp"
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev" "-BD:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build" --check-stamp-file "D:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/lib/glfw/src/CMakeFiles/generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -250,12 +250,12 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMake\glfw3.pc.in;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMake\glfw3.pc.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule D:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/lib/glfw/src/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule D:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/lib/glfw/src/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SD:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev" "-BD:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build" --check-stamp-file "D:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/lib/glfw/src/CMakeFiles/generate.stamp"
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev" "-BD:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build" --check-stamp-file "D:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/lib/glfw/src/CMakeFiles/generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -263,48 +263,48 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMake\glfw3.pc.in;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\CMake\glfw3.pc.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\lib\glfw\src\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include\GLFW\glfw3.h" />
-    <ClInclude Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include\GLFW\glfw3native.h" />
-    <ClInclude Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\internal.h" />
-    <ClInclude Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\platform.h" />
-    <ClInclude Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\mappings.h" />
-    <ClCompile Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\context.c" />
-    <ClCompile Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\init.c" />
-    <ClCompile Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\input.c" />
-    <ClCompile Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\monitor.c" />
-    <ClCompile Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\platform.c" />
-    <ClCompile Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\vulkan.c" />
-    <ClCompile Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\window.c" />
-    <ClCompile Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\egl_context.c" />
-    <ClCompile Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\osmesa_context.c" />
-    <ClInclude Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\null_platform.h" />
-    <ClInclude Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\null_joystick.h" />
-    <ClCompile Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\null_init.c" />
-    <ClCompile Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\null_monitor.c" />
-    <ClCompile Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\null_window.c" />
-    <ClCompile Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\null_joystick.c" />
-    <ClInclude Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\win32_time.h" />
-    <ClInclude Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\win32_thread.h" />
-    <ClCompile Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\win32_module.c" />
-    <ClCompile Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\win32_time.c" />
-    <ClCompile Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\win32_thread.c" />
-    <ClInclude Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\win32_platform.h" />
-    <ClInclude Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\win32_joystick.h" />
-    <ClCompile Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\win32_init.c" />
-    <ClCompile Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\win32_joystick.c" />
-    <ClCompile Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\win32_monitor.c" />
-    <ClCompile Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\win32_window.c" />
-    <ClCompile Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\wgl_context.c" />
+    <ClInclude Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include\GLFW\glfw3.h" />
+    <ClInclude Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\include\GLFW\glfw3native.h" />
+    <ClInclude Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\internal.h" />
+    <ClInclude Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\platform.h" />
+    <ClInclude Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\mappings.h" />
+    <ClCompile Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\context.c" />
+    <ClCompile Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\init.c" />
+    <ClCompile Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\input.c" />
+    <ClCompile Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\monitor.c" />
+    <ClCompile Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\platform.c" />
+    <ClCompile Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\vulkan.c" />
+    <ClCompile Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\window.c" />
+    <ClCompile Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\egl_context.c" />
+    <ClCompile Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\osmesa_context.c" />
+    <ClInclude Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\null_platform.h" />
+    <ClInclude Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\null_joystick.h" />
+    <ClCompile Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\null_init.c" />
+    <ClCompile Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\null_monitor.c" />
+    <ClCompile Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\null_window.c" />
+    <ClCompile Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\null_joystick.c" />
+    <ClInclude Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\win32_time.h" />
+    <ClInclude Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\win32_thread.h" />
+    <ClCompile Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\win32_module.c" />
+    <ClCompile Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\win32_time.c" />
+    <ClCompile Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\win32_thread.c" />
+    <ClInclude Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\win32_platform.h" />
+    <ClInclude Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\win32_joystick.h" />
+    <ClCompile Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\win32_init.c" />
+    <ClCompile Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\win32_joystick.c" />
+    <ClCompile Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\win32_monitor.c" />
+    <ClCompile Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\win32_window.c" />
+    <ClCompile Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\lib\glfw\src\wgl_context.c" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="D:\SIT-Digipen\Year 1\Trimester 3\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\ZERO_CHECK.vcxproj">
-      <Project>{4DB06C84-D3C6-3C08-A8C0-B960429BD86D}</Project>
+    <ProjectReference Include="D:\Projects\UndergraduateCoursework\Year 1\CSD2101 - Introduction to Computer Graphics\csd2101-opengl-dev\build\ZERO_CHECK.vcxproj">
+      <Project>{53F7CB16-6721-385D-9251-45F067DFE720}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>

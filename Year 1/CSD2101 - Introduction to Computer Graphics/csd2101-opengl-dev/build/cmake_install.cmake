@@ -1,4 +1,4 @@
-# Install script for directory: D:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev
+# Install script for directory: D:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/SIT-Digipen/Year 1/Trimester 3/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Projects/UndergraduateCoursework/Year 1/CSD2101 - Introduction to Computer Graphics/csd2101-opengl-dev/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
